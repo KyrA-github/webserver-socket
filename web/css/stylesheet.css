@@ -1,0 +1,13 @@
+.chat_1
+{
+background-color: rgb(65, 65, 65);
+border-radius: 10px;
+}
+.text_1
+{
+    color: white;
+    position: relative;
+    left: 15%;
+    bottom: 25px;
+    
+}
