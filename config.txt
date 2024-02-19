@@ -1,0 +1,8 @@
+mimetypes=True
+host=192.168.0.111
+port=8080
+folder=web
+404_folder=web/index.html
+encoding=utf-8
+listen=10
+openf=rb
